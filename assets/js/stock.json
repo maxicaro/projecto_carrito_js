@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ryzen 3",
+        "tipo": "procesador",
+        "desc": "AMD Ryzen 3 3100 4-Core",
+        "precio": 1200,
+        "filtro": "P",
+        "img": "./assets/img/ryzen_3.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "Ryzen 5",
+        "tipo": "procesador",
+        "desc": "AMD Ryzen 5 5600X 6-core",
+        "precio": 1100,
+        "filtro": "P",
+        "img": "./assets/img/ryzen_5.jpeg"
+    },
+    {
+        "id": 3,
+        "nombre": "Ryzen 7",
+        "tipo": "procesador",
+        "desc": "AMD Ryzen 7 5800X 8-core",
+        "precio": 1200,
+        "filtro": "P",
+        "img": "./assets/img/ryzen_7.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Ryzen 9",
+        "tipo": "procesador",
+        "desc": "AMD Ryzen 9 5900X 12-core",
+        "precio": 1400,
+        "filtro": "P",
+        "img": "./assets/img/ryzen_9.jpeg"
+    },
+    {
+        "id": 5,
+        "nombre": "Intel 7",
+        "tipo": "procesador",
+        "desc": "Intel Core i7-8700K Desktop",
+        "precio": 1200,
+        "filtro": "P",
+        "img": "./assets/img/intel_7.jpeg"
+    },
+    {
+        "id": 6,
+        "nombre": "Intel 9",
+        "tipo": "procesador",
+        "desc": "Intel Core i9-9900K Desktop",
+        "precio": 1500,
+        "filtro": "P",
+        "img": "./assets/img/intel_9.jpeg"
+    },
+    {
+        "id": 7,
+        "nombre": "Asus 1",
+        "tipo": "mother",
+        "desc": "ROG Strix X570-F Gaming ATX",
+        "precio": 500,
+        "filtro": "M",
+        "img": "./assets/img/moder_1.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Gigabite 2",
+        "tipo": "mother",
+        "desc": "ASUS ROG Crosshair VIII Hero",
+        "precio": 500,
+        "filtro": "M",
+        "img": "./assets/img/moder_2.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Aorus 3",
+        "tipo": "mother",
+        "desc": "GIGABYTE X570S AORUS PRO",
+        "precio": 500,
+        "filtro": "M",
+        "img": "./assets/img/moder_3.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Asus 4",
+        "tipo": "mother",
+        "desc": "ASUS AM4 TUF Gaming X570",
+        "precio": 700,
+        "filtro": "M",
+        "img": "./assets/img/moder_4.jpeg"
+    },
+    {
+        "id": 11,
+        "nombre": "Gigabite 5",
+        "tipo": "mother",
+        "desc": "ROG Maximus XIIHero Gaming",
+        "precio": 700,
+        "filtro": "M",
+        "img": "./assets/img/moder_5.jpeg"
+    },
+    {
+        "id": 12,
+        "nombre": "Asus 6",
+        "tipo": "mother",
+        "desc": "ASUS ROG Strix Z370-I Gaming",
+        "precio": 700,
+        "filtro": "M",
+        "img": "./assets/img/moder_6.jpeg"
+    },
+    {
+        "id": 13,
+        "nombre": "Radeon 1",
+        "tipo": "placa",
+        "desc": "Radeon RX 6800 XT Gaming",
+        "precio": 900,
+        "filtro": "G",
+        "img": "./assets/img/placa_1.jpeg"
+    },
+    {
+        "id": 14,
+        "nombre": "Radeon 2",
+        "tipo": "placa",
+        "desc": "Radeon RX 6600 XT Gaming",
+        "precio": 1400,
+        "filtro": "G",
+        "img": "./assets/img/placa_2.jpeg"
+    },
+    {
+        "id": 15,
+        "nombre": "Radeon 3",
+        "tipo": "placa",
+        "desc": "Radeon RX 6700 XT Gaming",
+        "precio": 7000,
+        "filtro": "G",
+        "img": "./assets/img/placa_3.jpeg"
+    },
+    {
+        "id": 16,
+        "nombre": "Nividia 4",
+        " tipo": "placa",
+        " cantidad": 1,
+        "desc": "GIGABYTE RTX 3060 Gaming",
+        "precio": 777,
+        "filtro": "G",
+        "img": "./assets/img/placa_4.jpeg"
+    },
+    {
+        "id": 17,
+        "nombre": "Nividia 5",
+        " tipo": "placa",
+        " cantidad": 1,
+        "desc": "GIGABYTE RTX 3070 Gaming",
+        "precio": 234,
+        "filtro": "G",
+        "img": "./assets/img/placa_5.jpeg"
+    },
+    {
+        "id": 18,
+        "nombre": "Nividia 6",
+        " tipo": "placa",
+        " cantidad": 1,
+        "desc": "Asus Strix RTX 3070 Gaming",
+        "precio": 1600,
+        "filtro": "G",
+        "img": "./assets/img/placa_6.jpeg"
+    },
+    {
+        "id": 19,
+        "nombre": "Evega 1",
+        "tipo": "fuente",
+        " cantidad": 1,
+        "desc": "EVGA 650W BQ, 80+ BRONZE",
+        "precio": 1600,
+        "filtro": "F",
+        "img": "./assets/img/fuente_1.jpeg"
+    },
+    {
+        "id": 20,
+        "nombre": "Evega 2",
+        "tipo": "fuente",
+        " cantidad": 1,
+        "desc": "EVGA 750W BQ, 80+ BRONZE",
+        "precio": 3200,
+        "filtro": "F",
+        "img": "./assets/img/fuente_2.jpeg"
+    },
+    {
+        "id": 21,
+        "nombre": "Evega 3",
+        "tipo": "fuente",
+        " cantidad": 1,
+        "desc": "EVGA 500W BQ, 80+ BRONZE",
+        "precio": 2300,
+        "filtro": "F",
+        "img": "./assets/img/fuente_3.jpeg"
+    },
+    {
+        "id": 22,
+        "nombre": "Evega 4",
+        "tipo": "fuente",
+        " cantidad": 1,
+        "desc": "EVGA 850W BQ, 80+ BRONZE",
+        "precio": 5600,
+        "filtro": "F",
+        "img": "./assets/img/fuente_4.jpeg"
+    },
+    {
+        "id": 23,
+        "nombre": "Cooler 5",
+        " tipo": "fuente",
+        " cantidad": 1,
+        "desc": "Cooler Master V850W SFX ",
+        "precio": 1700,
+        "filtro": "F",
+        "img": "./assets/img/fuente_5.jpeg"
+    },
+    {
+        "id": 24,
+        "nombre": "Cooler 6",
+        " tipo": "fuente",
+        " cantidad": 1,
+        "desc": "Cooler Master V750W SFX ",
+        "precio": 800,
+        "filtro": "F",
+        "img": "./assets/img/fuente_6.jpeg"
+    }
+]
