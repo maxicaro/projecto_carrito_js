@@ -156,7 +156,19 @@ const eliminarDelCarrito = (prodId) => {
         }).showToast();
 
     }else{
+
         item.cantidad -= 1
+
+        Toastify({
+            newWindow: true,
+            text: `⛔ Producto Eliminado -- ${item.nombre}`,
+            className: "info",
+            close: true,
+            stopOnFocus: true, 
+            style: {
+            background: "red",
+            }
+        }).showToast();
     }
     
     actualizarCarrito() //LLAMAMOS A LA FUNCION QUE CREAMOS EN EL TERCER PASO. CADA VEZ Q SE 
