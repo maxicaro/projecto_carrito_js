@@ -277,7 +277,7 @@ input{
     }
     .modal-body{
         width: 1200px;
-        background-image: url(/assets/img/targeta1.png);
+        background-image: url(../img/targeta1.png);
         background-repeat: no-repeat;
         object-fit: cover;
         
