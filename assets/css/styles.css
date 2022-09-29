@@ -275,17 +275,25 @@ input{
     padding: 1rem;
     margin-top: 7rem;  
     }
-   /* #contenedor-productos{
-    background-color: #303030;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
-    align-items: center;
-    color: #F2F2F2;
-    
-    }*/
+    .modal-body{
+        width: 1200px;
+        background-image: url(/assets/img/targeta1.png);
+        background-repeat: no-repeat;
+        object-fit: cover;
+        
+    }
+    .modal-header{
+        background-color: #d41939;
+        color: white;
+    }
+    .modal-footer{
+        background-color: #d41939;
+        
+    }
+    .btn-close{
+        background-color: white;
+        
+    }
    @media (max-width: 1024px){
         #contenedor-productos{
             display: block;
