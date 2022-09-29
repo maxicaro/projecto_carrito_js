@@ -339,5 +339,26 @@ input{
             margin-top: -100%;
             transition: all .5s;
         }
-        
+        .footer1{
+            margin-top: 2rem;
+        }
+        .footer__contacto {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 1rem;
+            
+          }
+          .footer__redes {
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            align-items: center;
+            padding-right: 0%;
+          }
+          .footer__marca{
+            flex-direction: column;
+            gap:40px ;
+          }
     }
