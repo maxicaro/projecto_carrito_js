@@ -6,7 +6,7 @@
         "desc": "AMD Ryzen 3 3100 4-Core",
         "precio": 1200,
         "filtro": "P",
-        "img": "./assets/img/ryzen_3.jpeg"
+        "img": "./assets/img/ryzen8.jpg"
     },
     {
         "id": 2,
@@ -51,7 +51,7 @@
         "desc": "Intel Core i9-9900K Desktop",
         "precio": 1500,
         "filtro": "P",
-        "img": "./assets/img/intel_9.jpeg"
+        "img": "./assets/img/intel9.jpg"
     },
     {
         "id": 7,
