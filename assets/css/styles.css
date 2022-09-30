@@ -372,4 +372,14 @@ input{
           .footer__texto{
             color: gray;
           }
+          .modal-body{
+            width: 100%;
+           background-color: #d41939;
+        }
+        .te{
+            width: 250px;
+        }
+        .formu{
+            text-align: center;
+        }
     }
