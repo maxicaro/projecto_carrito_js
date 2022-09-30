@@ -292,6 +292,7 @@ input{
     }
     .btn-close{
         background-color: white;
+        font-size: 10px;
         
     }
    @media (max-width: 1024px){
@@ -379,7 +380,5 @@ input{
         .te{
             width: 250px;
         }
-        .formu{
-            text-align: center;
-        }
+       
     }
